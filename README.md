@@ -1,99 +1,118 @@
 <!-- Animated Header -->
 <h1 align="center">Hi 👋, I'm Amit Kumar Prasad</h1>
-<h3 align="center">🚀 Web Developer | MERN Enthusiast | AI Explorer</h3>
+<h3 align="center">🚀 Full Stack Developer | MERN Enthusiast | AI Explorer</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=550&lines=Full+Stack+Web+Developer;MERN+Stack+%7C+Java+%7C+DSA;Building+Scalable+Web+Apps;Exploring+AI+and+Automation;Always+Learning+New+Tech!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Full+Stack+Web+Developer;MERN+Stack+%7C+Java+%7C+DSA;Building+Scalable+Web+Apps;Exploring+AI+and+Automation;Always+Learning+New+Tech!" alt="Typing SVG" />
 </p>
 
 ---
 
-## 💫 About Me  
-🎓 B.Tech CSE Student | Axis College  
-📍 Kanpur, India  
+## 👀 Recruiter Snapshot
 
-I am a passionate **Full Stack Web Developer** with strong interest in **MERN Stack, UI/UX Design, and AI-powered applications**.  
-I love transforming ideas into real-world products and writing clean, maintainable code.
-
-> *"Code is not just syntax, it's problem-solving made executable."*
-
----
-
-## 🧠 What I Do
-- 🌐 Build responsive & scalable web apps  
-- ⚙️ Develop APIs using Node.js & Express  
-- 🗄️ Design databases with MongoDB  
-- 🎨 Craft modern UI with CSS & Tailwind  
-- 🤖 Experiment with AI agents & automation  
-- 📊 Practice DSA in Java for strong foundations  
+| | |
+|---|---|
+| 🎓 | B.Tech CSE (2nd Year) — Axis College, Kanpur |
+| 💻 | Full Stack MERN Developer |
+| 🧠 | Strong in Java + DSA (300+ problems solved) |
+| 🚀 | Built AI-powered & Real-Time Web Applications |
+| 🎯 | Targeting SDE / Full Stack / Frontend Intern Roles |
 
 ---
 
-## 🌐 Connect With Me  
+## 💫 About Me
+
+I'm a passionate **Full Stack Web Developer** with strong interest in **MERN Stack, UI/UX Design, and AI-powered applications**. I love transforming ideas into real-world products and writing clean, maintainable code.
+
+> *"Code is not just syntax — it's problem-solving made executable."*
+
+---
+
+## 🧩 Developer Impact
+
+- ⚡ Built **real-time chat apps** with authentication, WebSockets & low latency
+- 🧠 Integrated **AI agents & automation** for smart, context-aware applications
+- 🛠 Designed **scalable REST APIs** with Node.js + Express across multiple projects
+- 📈 Solved **300+ DSA problems** in Java covering arrays, trees, graphs & DP
+- 🎨 Improved UI/UX using **Tailwind CSS** and modern design principles
+
+---
+
+## 🚀 Featured Projects
+
+### 🧠 HackChat — AI Chat Application
+🔹 Next.js · AI · Authentication · Real-Time  
+▶️ **Live Demo:** https://milan-chat.vercel.app  
+📂 **Source:** https://github.com/amit81127/Milan  
+✨ AI replies, real-time messaging, secure auth
+
+### 🎯 Portfolio Website
+🔹 Next.js · Tailwind CSS · Animations  
+📂 **Source:** https://github.com/amit81127  
+✨ Personal branding with project showcases and clean design
+
+### 🚗 Smart Parking System
+🔹 IoT · Arduino · RFID · Servo Motors  
+✨ Hardware + software integration for automated parking management
+
+### 🛍 RetailMate — Smart Retail Assistant
+🔹 AI · Voice Bot · NLP  
+✨ Conversational AI assistant for retail product queries
+
+---
+
+## 📚 Currently Learning
+
+- 🧩 Advanced DSA — Sliding Window, Dynamic Programming, Graphs
+- 🏗 System Design Fundamentals (scalability, load balancing, caching)
+- 🤖 RAG-based AI applications with LangChain / vector DBs
+- ⚙️ Backend performance, scalability & cloud deployment
+
+---
+
+## 💻 Tech Stack
+
 <p align="center">
-  <a href="https://linkedin.com/in/https://www.linkedin.com/in/amit-kumar-prasad-55a070275/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-00A0DC?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="mailto:h2307190100015@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
+  <img src="https://skillicons.dev/icons?i=c,html,css,js,java,react,nodejs,express,mongodb,git,github,tailwind,nextjs,figma" />
 </p>
 
 ---
 
-## 💻 Tech Stack  
+## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,html,css,js,java,nodejs,express,mongodb,git,github" />
-</p>
-
----
-
-## 🛠 Tools I Use
-- VS Code  
-- Postman  
-- Git & GitHub  
-- MongoDB Compass  
-- Figma (UI Designing)  
-
----
-
-## 📊 GitHub Analytics  
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=amit81127&theme=tokyonight&hide_border=true"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=amit81127&theme=tokyonight&hide_border=true&show_icons=true"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=amit81127&theme=tokyonight&hide_border=true"/>
 </p>
-
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amit81127&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
 
-## 🏆 GitHub Trophies  
+## 🐍 Contribution Graph
+
+![Snake animation](https://raw.githubusercontent.com/amit81127/amit81127/output/github-contribution-grid-snake.svg)
+
+---
+
+## 🏆 GitHub Trophies
+
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=amit81127&theme=tokyonight&no-frame=true&column=6"/>
 </p>
 
 ---
 
-## 🔝 Top Contributions  
-![](https://github-contributor-stats.vercel.app/api?username=amit81127&limit=5&theme=dark&combine_all_yearly_contributions=true)
+## 🤝 Open to Opportunities
+
+💼 Looking for: **Frontend / Full Stack Intern** or **SDE Entry-Level Role**  
+📧 Email: [h2307190100015@gmail.com](mailto:h2307190100015@gmail.com)  
+🔗 LinkedIn: [linkedin.com/in/amit-kumar-prasad-55a070275](https://www.linkedin.com/in/amit-kumar-prasad-55a070275/)
+
+⭐ If you like my work, feel free to **star a repo or connect** — I'd love to collaborate!
 
 ---
-
-## 🚀 Projects Highlight  
-| Project | Tech | Description |
-|--------|------|------------|
-| 🧠 HackChat | Next.js, AI | AI-powered chat application |
-| 🚗 Smart Parking System | IoT, Arduino | RFID + Servo based automation |
-| 🎯 Portfolio Website | Next.js, Tailwind | Personal branding platform |
-| 🛍 RetailMate | AI, Voice Bot | Smart retail assistant |
-
----
-
-## ✨ Fun Extras  
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=amit81127&style=for-the-badge&color=blue"/>
@@ -101,24 +120,8 @@ I love transforming ideas into real-world products and writing clean, maintainab
   <img src="https://img.shields.io/github/stars/amit81127?style=for-the-badge"/>
 </p>
 
----
-
-## 🎯 Career Goal  
-🎯 Crack a **6+ LPA Software Engineer Role** by mastering:
-- DSA in Java  
-- System Design Basics  
-- Full Stack Development  
-- Real-world Projects  
-
----
-
-## 🧩 Quote That Drives Me  
-> “Great developers are not born, they are built by consistency.”
-
----
-
 <p align="center">
-  🔥 *Let’s collaborate and build something impactful together!*  
+  🔥 <em>Let's collaborate and build something impactful together!</em>
 </p>
 
 [![](https://visitcount.itsvg.in/api?id=amit81127&icon=5&color=12)](https://visitcount.itsvg.in)
