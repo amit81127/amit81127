@@ -12,7 +12,7 @@
 
 | | |
 |---|---|
-| 🎓 | B.Tech CSE (2nd Year) — Axis College, Kanpur |
+| 🎓 | B.Tech CSE (3nd Year) — Axis College, Kanpur |
 | 💻 | Full Stack MERN Developer |
 | 🧠 | Strong in Java + DSA (300+ problems solved) |
 | 🚀 | Built AI-powered & Real-Time Web Applications |
